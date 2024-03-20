@@ -4,7 +4,7 @@
 <h3 align="center"> A passionate, driven, stable and enjoying Backend developer</h3>
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&color=1DCB51&background=000000&center=true&vCenter=true&multiline=true&width=846&height=130&lines=Hello+Everyone+:);I'm+Fatih+Sarıtaş+F.D.;Knock%2C+knock;Don't+forget+to+follow+my+accounts+:*" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&color=1DCB51&background=000000&center=true&vCenter=true&multiline=true&width=846&height=130&lines=Hello+Everyone+:);I'm+Fatih+Sarıtaş+B.D.;Knock%2C+knock;Don't+forget+to+follow+my+accounts+:*" alt="Typing SVG"/>
 </p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FatihSaritas&label=Profile%20views&color=0e75b6&style=flat" alt="FatihSaritas" /> </p>
